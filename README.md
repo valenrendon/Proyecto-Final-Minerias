@@ -26,14 +26,15 @@ Instalar librerías necesarias desde `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
-Cómo Ejecutar la Aplicación
+## Cómo Ejecutar la Aplicación
 
-Activar tu entorno virtual:
+1. Activar tu entorno virtual:
 
-Windows:
+- **Windows:**
+```bash
 venv\Scripts\activate
 
-Mac/Linux:
+-**Mac/Linux:**
 source venv/bin/activate
 
 Ejecutar la aplicación Streamlit:
